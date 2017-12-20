@@ -1,0 +1,26 @@
+{
+  "name": "azure-blob-lab",
+  "version": "1.0.0",
+  "description": "Experimenting with Azure blob storage",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nearin/azureBlobLab.git"
+  },
+  "author": "Pontus pontus.nydensten@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nearin/azureBlobLab/issues"
+  },
+  "homepage": "https://github.com/nearin/azureBlobLab#readme",
+  "dependencies": {
+    "azure-storage": "^2.7.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "guid": "0.0.12",
+    "multer": "^1.3.0"
+  }
+}
