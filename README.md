@@ -10,5 +10,5 @@ AZURE_URL=<YOUR FULL CONNECTION STRING TO A AZURE BLOB STORAGE>
 ```
 Start with:
 ```
-npm start
+node start
 ```
